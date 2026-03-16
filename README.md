@@ -1,4 +1,4 @@
-## Hi there👋, i am Min Suk
+## Hi there👋, I am Min Suk
 
 <!--
 **Min-vscode/Min-vscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
